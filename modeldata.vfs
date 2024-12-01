@@ -1,0 +1,54 @@
+{
+    "length": 3,
+    "width": 4,
+    "height": 5,
+    "temperature": 25,
+    "heat_loss": 5950,
+    "walls": [
+        {
+            "index": 0,
+            "Area": 12,
+            "UValue": 20,
+            "Q": 3600,
+            "exclude_list": []
+        },
+        {
+            "index": 1,
+            "Area": 20,
+            "UValue": 5,
+            "Q": 500,
+            "exclude_list": []
+        },
+        {
+            "index": 2,
+            "Area": 20,
+            "UValue": 5,
+            "Q": 500,
+            "exclude_list": []
+        },
+        {
+            "index": 3,
+            "Area": 15,
+            "UValue": 5,
+            "Q": 375,
+            "exclude_list": []
+        },
+        {
+            "index": 4,
+            "Area": 15,
+            "UValue": 5,
+            "Q": 375,
+            "exclude_list": []
+        },
+        {
+            "index": 5,
+            "Area": 12,
+            "UValue": 10,
+            "Q": 600,
+            "exclude_list": []
+        }
+    ],
+    "exclude_list": [
+        "walls"
+    ]
+}
